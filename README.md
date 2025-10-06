@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshit  
 
-<!--
-**harshitbamal/harshitbamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology student (B.Tech, 2022–2026)  
+💻 Passionate about **AI/ML, Data Analysis, and Frontend Development**  
+🚀 Actively learning Machine Learning and building projects with Python, Scikit-learn, and Pandas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, C, Java, JavaScript  
+- **AI/ML:** NumPy, Pandas, Scikit-learn (learning), Power BI  
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+
+---
+
+## 📌 Featured Projects
+- 📧 [Spam Email Classifier](https://github.com/harshitbamal/Spam-Email-Classifier)  
+  *Classifies SMS/email messages as Spam or Ham using Naive Bayes (95%+ accuracy).*    
+
+- 📊 [E-commerce Sales Dashboard](https://github.com/harshitbamal/Ecommerce-Sales-Dashboard)  
+  *Interactive Power BI dashboard analyzing sales and customer insights.*  
+
+- 🛒 [E-Commerce Website](https://github.com/harshitbamal/Ecommerce-Website)  
+  *React.js + Tailwind project with product listing, cart, and filters.*  
+
+---
+
+## 🏆 Achievements & Certifications
+- Google Machine Learning Crash Course  
+- Kaggle Micro-Courses (Python, Intro to Machine Learning)  
+- HackerRank Python (Basic)  
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning algorithms (Logistic Regression, Decision Trees, Random Forests)  
+- Data preprocessing and visualization  
+- Deep Learning basics (PyTorch, TensorFlow)  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: [chaudharyharshit502@gmail.com](mailto:chaudharyharshit502@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/harshit-chaudhary-b0b819262](https://www.linkedin.com/in/harshit-chaudhary-b0b819262/)  
+- 💻 Portfolio: [harshitch-portfolio.netlify.app](https://harshitch-portfolio.netlify.app/)  
+
+---
+⭐️ From [Harshit](https://github.com/harshitbamal)
