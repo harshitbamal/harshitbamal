@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Harshit  
+# 👋 Hi, I'm Harshit Chaudhary
 
 🎓 Information Technology student (B.Tech, 2022–2026)  
-💻 Passionate about **AI/ML, Data Analysis, and Frontend Development**  
+💻 Passionate about **AI/ML, Data Analysis, and Full-Stack Development**  
 🚀 Actively learning Machine Learning and building projects with Python, Scikit-learn, and Pandas.  
 
 ---
@@ -10,7 +10,8 @@
 - **Languages:** Python, C, Java, JavaScript  
 - **AI/ML:** NumPy, Pandas, Scikit-learn (learning), Power BI  
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS  
-- **Databases:** MySQL, MongoDB  
+- **Backend:** Node.js, Prisma 
+- **Databases:** MySQL, MongoDB, PostgreSQL 
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
 
 ---
